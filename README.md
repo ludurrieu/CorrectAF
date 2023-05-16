@@ -24,6 +24,18 @@ Output: Auto-fluorescence corrected images + intensity-weigthed ratiometric imag
 
 ![Montage_output](https://github.com/ludurrieu/CorrectAF/assets/79978782/b3259917-98b7-471f-a719-f2a74f62d66a)
 
-Left: Ratio, Middle: CFP, Right: YFP (autofluorescence decicated channel)
+Left: Ratio with very tiny scalebar (of course, it can be adjusted), Middle: CFP, Right: YFP (autofluorescence decicated channel)
 
 Note: the macro saves all output images in a folder, the montage was made afterwards
+
+## More information
+
+For a detailed description of the steps and use of this macro, see
+Metabolic FRET sensors in intact organs: Applying spectral unmixing to acquire reliable signals. L Gándara, L Durrieu and P Wappner, 2023.
+
+Some version of this macro was used in these papers: 
+* Bicoid gradient formation mechanism and dynamics revealed by protein lifetime analysis. Durrieu, Lucía, Kirrmaier, Daniel, Schneidt, Tatjana, Kats, Ilia, Raghavan, Sarada, Knop, Michael, Saunders, Timothy E, Hufnagel, Lars
+(for fluorescent timers and Light-Sheet Imaging)
+* A genetic toolkit for the analysis of metabolic changes in Drosophila provides new insights into metabolic responses to stress and malignant transformation. L Gándara, L Durrieu, C. Beherensen and P Wappner, 2019. 
+(for Intramolecular FRET quth spectral confocal imaging)
+
